@@ -6,6 +6,7 @@ class Sudoku
   end
 
   def board
+    test
   end
 
   # Returns a string representing the current state of the board
